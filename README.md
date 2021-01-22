@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome!
+
+I'm Julius and will guid you over this tour regarding information about myself.
+
+Currently there is not much to see yet, but I am sure this will all get filled up over time!
+
+
 
 <!--
 **Arcadia197/Arcadia197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
