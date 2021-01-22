@@ -1,6 +1,6 @@
 ### Welcome!
 
-I'm Julius and will guid you over this tour regarding information about myself.
+I'm Julius and will guide you over this tour regarding information about myself.
 
 Currently there is not much to see yet, but I am sure this will all get filled up over time!
 
